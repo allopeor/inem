@@ -1,0 +1,88 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="16777215" alfaFondo="100" imagen="vacio" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]PSC INEM.jpg" alto_px="720" ancho_px="960" alto="73.62" ancho="78.66" rotation="0" posy="-1" posx="-1" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="59" ancho_px="460" alto="100" ancho="100" rotation="0" posy="436" posx="114" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>Luis Delfín Insuasty Rodríguez INEM-Sede 3</B><FONT SIZE="12"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]descarga.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="356.03" ancho_px="733" alto="100" ancho="100" rotation="0.01" posy="23" posx="8" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>EL PACTO SOCIAL DE CONVIVENCIA INSTITUCIONAL</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B></B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>El Pacto Social de Convivencia Institucional puede entenderse como una herramienta en la que se consignan los acuerdos de la comunidad educativa para facilitar y garantizar la armonía en la vida diaria de los establecimientos educativos. </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B></B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>se pretende generar escenarios y condiciones para aprender a vivir en armonía con los demás, formar en el respeto a nuestros semejantes y a nuestroentorno, comprometernos en una responsabilidad compartida para la construcción de un clima cooperativo y solidario que nos permita en la cotidianidad de nuestras acciones, “aprender a ser”; “aprender a aprender” “aprender a hacer” y ante todo “aprender a convivir“, como competencias básicas esenciales en laconsolidación de un verdadero perfil Inemita</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B></B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/MANUAL DE CONVIVENCIA/[_2_]images (5).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="50.01" ancho_px="693" alto="100" ancho="100" rotation="0" posy="18" posx="74" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="18" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>¿Para que sirve el Pacto Social de Convivencia Institucional?</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="73" ancho_px="495" alto="100" ancho="100" rotation="0" posy="234" posx="144" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="16" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>Es una herramienta que busca garantizar una sana convivencia entre los estudiantes, los padres de familia y docente y demás integrantes de la comunidad educativa, basada en el respeto por los derechos humanos, sexuales y reproductores </B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]buch.gif" alto_px="123" ancho_px="200" alto="100" ancho="100" rotation="0" posy="69" posx="294" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]images (2).jpg" alto_px="196" ancho_px="257" alto="65.31" ancho="57.59" rotation="0" posy="316" posx="501" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]descarga (2).jpg" alto_px="221" ancho_px="228" alto="59.28" ancho="65.8" rotation="0" posy="391" posx="316" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]descarga.jpg" alto_px="173" ancho_px="291" alto="76.31" ancho="50.52" rotation="0" posy="316" posx="125" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/MANUAL DE CONVIVENCIA/[_2_]images (6).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="460" ancho_px="597" alto="100" ancho="100" rotation="0" posy="44" posx="110" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="18" COLOR="#0033FF" LETTERSPACING="0" KERNING="1">¿<B>Que contiene el manual de convivencia?</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"><B>El manual de convivencia contiene:</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>1.Información básica del Establecimiento Educativo.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>•Reseña Histórica institucional. </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>•Misión institucional.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>•Visión institucional. </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>•Objetivos institucionales. </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>•Perfil del estudiante inemita.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>•Los símbolos institucionales. </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#00CC00" LETTERSPACING="0" KERNING="1"><B>•Estructura orgánica institucional.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#FF9933" LETTERSPACING="0" KERNING="1"><B>2.Derechos y responsabilidades de los integrantes de la comunidad educativa.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#FF0066" LETTERSPACING="0" KERNING="1"><B>3.Pactos para la convivencia escolar.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0099FF" LETTERSPACING="0" KERNING="1"><B>4.Ruta de atención escolar.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#CC99FF" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#CC33FF" LETTERSPACING="0" KERNING="1"><B>5.Sistemas de participación y mecanismos de comunicación.</B><FONT COLOR="#CC99FF"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="14" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]Adivinanzas-faciles-colegio.jpg" alto_px="797" ancho_px="1435" alto="27.86" ancho="11.1" rotation="0" posy="85" posx="543" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/MANUAL DE CONVIVENCIA/[_2_]images (5).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="109" ancho_px="440" alto="100" ancho="100" rotation="0" posy="19" posx="183" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="18" COLOR="#CC0066" LETTERSPACING="0" KERNING="1"><B>Juega y Aprende</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="18" COLOR="#CC0066" LETTERSPACING="0" KERNING="1"><B>¿Qué es el Pacto Social de Convivencia?</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento actividad="galeria/actividades/ahorcado.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="26" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto=" Pacto Social de Convivencia"/>
+          <instrucciones name="instrucciones"><![CDATA[Encuentra la definición de Pacto Social de Convivencia]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="45" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf"><![CDATA[HERRAMIENTA QUE BUSCA GARANTIZAR LA SANA CONVIVENCIA EN LA INSTITUCIÓN ]]></conf>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="MUY BIEN LO LOGRASTE"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="LO SIENTO, SIGUE INTENTANDO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/MANUAL DE CONVIVENCIA/[_2_]images (5).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="43" ancho_px="751" alto="100" ancho="100" rotation="0" posy="17" posx="18" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="18" COLOR="#CC0099" LETTERSPACING="0" KERNING="1"><B>¿QUÉ CONTIENE EL PACTO SOCIAL DE CONVIVENCIA INSTITUCIONAL?</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento actividad="galeria/actividades/sopa.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="-1" posx="-1" tipo="actividad" src="3">
+      <actividad id="3" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="PACTO SOCIAL DE CONVIVENCIA"/>
+          <instrucciones name="instrucciones"><![CDATA[Encuentra 14 palabras relacionadas con los componentes del Pacto Social de Convivencia Institucional]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="180" intentos="-1"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" palabras="14" filas="17" columnas="17"/>
+          <palabra name="palabra" texto="MISION"/>
+          <palabra name="palabra" texto="VISION"/>
+          <palabra name="palabra" texto="PRINCIPIOS"/>
+          <palabra name="palabra" texto="VALORES"/>
+          <palabra name="palabra" texto="PERFILES"/>
+          <palabra name="palabra" texto="DERECHOS"/>
+          <palabra name="palabra" texto="PACTOS"/>
+          <palabra name="palabra" texto="CONVIVENCIA"/>
+          <palabra name="palabra" texto="RUTA"/>
+          <palabra name="palabra" texto="ATENCION"/>
+          <palabra name="palabra" texto="PARTICIPACION"/>
+          <palabra name="palabra" texto="COMUNICACION"/>
+          <palabra name="palabra" texto="DEBERES"/>
+          <palabra name="palabra" texto="PAZ"/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="BUEN TRABAJO"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="LO SIENTO, SIGUE INTENTANDO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+</fundacion>

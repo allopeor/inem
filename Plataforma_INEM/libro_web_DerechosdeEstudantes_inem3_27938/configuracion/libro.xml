@@ -1,0 +1,131 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]images (12).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="190" ancho_px="437" alto="100" ancho="100" rotation="0" posy="8" posx="147" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#339900" LETTERSPACING="0" KERNING="1"><B>DERECHOS DE </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#339900" LETTERSPACING="0" KERNING="1"><B>LOS ESTUDIANTES INEMITAS</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]SAM_7233.JPG" alto_px="3456" ancho_px="4608" alto="10.32" ancho="11.03" rotation="0" posy="159" posx="120" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]images (6).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="113" ancho_px="736" alto="100" ancho="100" rotation="0" posy="24" posx="43" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#FF0066" LETTERSPACING="0" KERNING="1"><B>¿Qué son los derechos </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#FF0066" LETTERSPACING="0" KERNING="1"><B>de los niños y niñas?</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="191" ancho_px="380" alto="100" ancho="100" rotation="0" posy="157" posx="208" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="28" COLOR="#FF0000" LETTERSPACING="0" KERNING="1"><B>Observa los videos</B><FONT COLOR="#33FF66"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Imagenes/[_2_]20071120133714-derechos-ninos-33333222.jpg" alto_px="400" ancho_px="275" alto="49.75" ancho="50.19" rotation="0" posy="123" posx="93" tipo="hipervinculo" src="5"><![CDATA[http://www.youtube.com/watch?v=B38r2mxER1c]]></elemento>
+    <elemento imagen="galeria/imagenes/Imagenes/[_2_]images.jpg" alto_px="196" ancho_px="257" alto="100" ancho="100" rotation="0" posy="198" posx="266" tipo="hipervinculo" src="5"><![CDATA[http://www.youtube.com/watch?v=NsePVv22mNk]]></elemento>
+    <elemento imagen="galeria/imagenes/Imagenes/[_2_]descarga.jpg" alto_px="261" ancho_px="193" alto="76.63" ancho="74.11" rotation="0" posy="130" posx="588" tipo="hipervinculo" src="5"><![CDATA[http://www.youtube.com/watch?v=bRgj-Hz8dWQ]]></elemento>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]bichinhos.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="117" ancho_px="505" alto="100" ancho="100" rotation="0" posy="13" posx="131" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="28" COLOR="#CC0033" LETTERSPACING="0" KERNING="1"><B>Descubre tus derechos como estudiante Inemita.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento actividad="galeria/actividades/ahorcado.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="26" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Derechos de estudiantes INEM"/>
+          <instrucciones name="instrucciones"><![CDATA[Descubre los derechos que tienes como estudiante INEMITAS]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="5"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf"><![CDATA[Solicitar reconocimiento y respeto de los derechos fundamentales.]]></conf>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Muy Bien sigue adelante"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="Intenta otra vez"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]images (2).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/ahorcado.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="26" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Derechos de estudiantes INEM"/>
+          <instrucciones name="instrucciones"><![CDATA[Descubre los derechos que tienes como estudiante INEMITAS]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="5"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf"><![CDATA[Respeto por su dignidad, diferencias étnicas, religiosas, políticas.]]></conf>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Muy Bien sigue adelante"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="Intenta otra vez"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="95" ancho_px="518" alto="100" ancho="100" rotation="0" posy="13" posx="116" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="28" COLOR="#0000CC" LETTERSPACING="0" KERNING="1"><B>Descubre tus derechos como estudiante Inemita.</B></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]images (10).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/ahorcado.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="26" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Derechos de estudiantes INEM"/>
+          <instrucciones name="instrucciones"><![CDATA[Descubre los derechos que tienes como estudiante INEMITA]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="5"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf"><![CDATA[Participar  en consejo directivo, académico y estudiantil y comites]]></conf>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Muy Bien sigue adelante"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="Intenta otra vez"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="119" ancho_px="505" alto="100" ancho="100" rotation="0" posy="8" posx="129" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="28" COLOR="#0000CC" LETTERSPACING="0" KERNING="1"><B>Descubre tus derechos como estudiante Inemita.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]fondos-de-pantalla-para-el-dia-del-nino-medium_20091124011153283194.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/ahorcado.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="26" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Derechos de estudiantes INEM"/>
+          <instrucciones name="instrucciones"><![CDATA[Descubre los derechos que tienes como estudiante INEMITA]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="5"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf"><![CDATA[Ser tratado con respeto, equidad y justicia por directivos y docentes ]]></conf>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Muy Bien sigue adelante"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="Intenta otra vez"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="179" ancho_px="487" alto="100" ancho="100" rotation="0" posy="14" posx="166" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="28" COLOR="#0000CC" LETTERSPACING="0" KERNING="1"><B>Descubre tus derechos como estudiante inemita.</B></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/fondos/[_2_]descarga (2).jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="111" ancho_px="486" alto="100" ancho="100" rotation="0" posy="39" posx="147" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="28" COLOR="#0000CC" LETTERSPACING="0" KERNING="1"><B>Descubre tus derechos como estudiante Inemita.</B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="12" COLOR="#0B333C" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento actividad="galeria/actividades/ahorcado.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="26" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Derechos de estudiantes INEM"/>
+          <instrucciones name="instrucciones"><![CDATA[Descubre los derechos que tienes como estudiante INEMITA]]></instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="-1" intentos="5"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf"><![CDATA[Derecho a la libre expresión, opinión, discusión franca y democrática.]]></conf>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="Muy Bien sigue adelante"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="Sigue Intentando"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+</fundacion>

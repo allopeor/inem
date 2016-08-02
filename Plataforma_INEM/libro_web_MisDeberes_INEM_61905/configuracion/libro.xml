@@ -1,0 +1,101 @@
+<fundacion alto="550" ancho="775" scorm="0">
+  <pagina locked="0" id="1">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="127" ancho_px="331" alto="100" ancho="100" rotation="0" posy="48" posx="220" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#CC0066" LETTERSPACING="0" KERNING="1"><B>MIS DEBERES</B><FONT SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]descarga_1.jpg" alto_px="173" ancho_px="291" alto="144.51" ancho="143.3" rotation="0" posy="126" posx="180" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="122" ancho_px="516" alto="100" ancho="100" rotation="0" posy="396" posx="143" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="24" COLOR="#FF0099" LETTERSPACING="0" KERNING="0"><B>LUIS DELFÍN INSUASTY RODRIGUEZ   </B></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Arial" SIZE="24" COLOR="#FF0099" LETTERSPACING="0" KERNING="0"><B>INEM-Sede 3</B><FONT SIZE="20" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="12" COLOR="#000000" LETTERSPACING="0" KERNING="1"></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="1b"/>
+  <pagina locked="0" id="2">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="53" ancho_px="398" alto="100" ancho="100" rotation="0" posy="44" posx="175" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="36" COLOR="#FF3333" LETTERSPACING="0" KERNING="1"><B>¿Qué es un deber?</B><FONT COLOR="#FFFF33"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]Presentacion1.jpg" alto_px="720" ancho_px="960" alto="29.73" ancho="35.73" rotation="0" posy="236" posx="205" tipo="hipervinculo" src="5"><![CDATA[http://www.youtube.com/watch?v=26DoPHCxdrM]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="140" ancho_px="417" alto="100" ancho="100" rotation="0" posy="107" posx="153" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="JUSTIFY"><FONT FACE="Verdana" SIZE="18" COLOR="#0000FF" LETTERSPACING="0" KERNING="1"><B>Los Deberes son reglas, leyes y normas que debemos cumplir para vivir en paz y armonía en los diferentes lugares en los que interactuamos como: la casa, el colegio, la calle, los parques y demás lugares donde nos encontremos</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="39.01" ancho_px="304" alto="100" ancho="100" rotation="0" posy="464" posx="247" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="18" COLOR="#CC0066" LETTERSPACING="0" KERNING="1"><A HREF="http://www.youtube.com/watch?v=26DoPHCxdrM" TARGET="_blank"><B><U>Clic aquí para ver el video </U></B></A><FONT SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="2b"/>
+  <pagina locked="0" id="3">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/sopa.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="3" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto="Los Deberes"/>
+          <instrucciones name="instrucciones">Encuentra 11 palabras relacionadas con los deberes</instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="60" intentos="-1" evaluacion="porcentual"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" palabras="11" filas="17" columnas="17"/>
+          <palabra name="palabra" texto="DEBER"/>
+          <palabra name="palabra" texto="CONVIVENCIA"/>
+          <palabra name="palabra" texto="LEYES"/>
+          <palabra name="palabra" texto="REGLAS"/>
+          <palabra name="palabra" texto="NORMAS"/>
+          <palabra name="palabra" texto="COMPROMISOS"/>
+          <palabra name="palabra" texto="CUMPLIR"/>
+          <palabra name="palabra" texto="PAZ"/>
+          <palabra name="palabra" texto="ARMONIA"/>
+          <palabra name="palabra" texto="OBLIGACIONES"/>
+          <palabra name="palabra" texto="RESPONSABILIDADE"/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+          <palabra name="palabra" texto=""/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="BUEN TRABAJO"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Importados/MisDeberes_copia2_20150920074732/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="SIGUE INTENTANDO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Importados/MisDeberes_copia2_20150920074732/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+  </pagina>
+  <pagina locked="0" id="3b"/>
+  <pagina locked="0" id="4">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (2)_2.jpg" alto_px="166" ancho_px="304" alto="121.1" ancho="122.04" rotation="0" posy="78" posx="60" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (1)_1.jpg" alto_px="171" ancho_px="295" alto="118.13" ancho="125.09" rotation="0" posy="300" posx="330" tipo="imagen" src="1"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="122" ancho_px="480" alto="100" ancho="100" rotation="0" posy="14" posx="162" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#FF3399" LETTERSPACING="0" KERNING="1"><B>¿Que Deberes tengo?</B><FONT SIZE="12" COLOR="#0B333C"></FONT></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="4b"/>
+  <pagina locked="0" id="5">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]respetar todo.jpg" alto_px="152" ancho_px="320" alto="129.9" ancho="119.95" rotation="0" posy="58" posx="66" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (4)_1.jpg" alto_px="167" ancho_px="301" alto="116.36" ancho="127.18" rotation="0" posy="298" posx="332" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="5b"/>
+  <pagina locked="0" id="6">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]Copia de respetar mundo.jpg" alto_px="178" ancho_px="320" alto="116.43" ancho="121.41" rotation="0" posy="278" posx="345" tipo="imagen" src="1"/>
+    <elemento imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]respetar mundo.jpg" alto_px="557" ancho_px="1000" alto="36.46" ancho="38.12" rotation="0" posy="59" posx="68" tipo="imagen" src="1"/>
+  </pagina>
+  <pagina locked="0" id="6b"/>
+  <pagina locked="0" id="7">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento actividad="galeria/actividades/puzzle.swf" alto_px="550" ancho_px="775" alto="100" ancho="100" rotation="0" posy="0" posx="0" tipo="actividad" src="3">
+      <actividad id="4" name="actividad">
+        <paso1 name="paso1">
+          <titulo name="titulo" texto=" DEBERES DE LOS NIÑOS Y NIÑAS"/>
+          <instrucciones name="instrucciones">Arma el rompecabezas, reflexiona con tus padres sobre los deberes que debes cumplir en tu casa, en tu colegio para lograr una sana convivencia.</instrucciones>
+          <interacciones name="interacciones" puntuacion="" tiempo="60" intentos="-1" evaluacion="porcentual"/>
+        </paso1>
+        <paso2 name="paso2">
+          <conf name="conf" imagen="galeria/imagenes/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]deberes_1.jpg" ancho="" alto="" filas="6" columnas="6"/>
+        </paso2>
+        <paso3 name="paso3">
+          <msgAcierto name="msgAcierto" texto="BUEN TRABAJO"/>
+          <sndAcierto name="sndAcierto" sonido="galeria/sonidos/Importados/MisDeberes_copia2_20150920074732/Objetos/[_2_]aplausos_03.mp3"/>
+          <msgFallo name="msgFallo" texto="SIGUE INTENTANDO"/>
+          <sndFallo name="sndFallo" sonido="galeria/sonidos/Importados/MisDeberes_copia2_20150920074732/Objetos/[_2_]corriente.mp3"/>
+        </paso3>
+      </actividad>
+    </elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="88" ancho_px="492" alto="100" ancho="100" rotation="0" posy="21" posx="132" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="LEFT"><FONT FACE="Verdana" SIZE="28" COLOR="#6600CC" LETTERSPACING="0" KERNING="1"><B>Deberes de los Niños y Niñas</B></FONT></P></TEXTFORMAT>]]></elemento>
+  </pagina>
+  <pagina locked="0" id="7b"/>
+  <pagina locked="0" id="8">
+    <elemento colorFondo="-1" alfaFondo="100" imagen="galeria/fondos/Importados/MisDeberes_copia2_20150920074732/INTERNET/[_2_]images (5)_2.jpg" posy="0" posx="0" tipo="fondo" src="10"/>
+    <elemento fondo="vacio" borde="vacio" alto_px="346" ancho_px="333" alto="100" ancho="100" rotation="0" posy="161" posx="218" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT><TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="16" COLOR="#FF0033" LETTERSPACING="0" KERNING="1"><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><B><U>Clik para observar el video</U></B></A><A HREF="https://www.youtube.com/watch?v=m87lBJ18ugY" TARGET="_blank"><U></U></A></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento fondo="vacio" borde="vacio" alto_px="158" ancho_px="438" alto="100" ancho="100" rotation="0" posy="37" posx="173" tipo="texto" src="2"><![CDATA[<TEXTFORMAT LEADING="2"><P ALIGN="CENTER"><FONT FACE="Verdana" SIZE="36" COLOR="#CC0066" LETTERSPACING="0" KERNING="1"><B>Normas que debo seguir en el colegio</B></FONT></P></TEXTFORMAT>]]></elemento>
+    <elemento imagen="galeria/imagenes/MANUAL DE CONVIVENCIA/[_2_]deberes escolares.jpg" alto_px="720" ancho_px="960" alto="43.75" ancho="43.13" rotation="0" posy="134" posx="184" tipo="hipervinculo" src="5"><![CDATA[http://www.youtube.com/watch?v=m87lBJ18ugY]]></elemento>
+  </pagina>
+</fundacion>
